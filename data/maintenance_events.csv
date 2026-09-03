@@ -1,0 +1,1080 @@
+event_id,aircraft_id,event_date,maintenance_type,downtime_days,issue_category
+1,AC-001,2025-03-07,Scheduled,2.5,Routine Inspection
+2,AC-001,2024-11-04,Scheduled,1.3,Routine Inspection
+3,AC-001,2022-12-14,Scheduled,1.3,Routine Inspection
+4,AC-001,2022-05-30,Scheduled,1.7,Routine Inspection
+5,AC-001,2022-09-16,Scheduled,1.0,Routine Inspection
+6,AC-001,2023-11-05,Scheduled,1.5,Routine Inspection
+7,AC-001,2023-10-17,Scheduled,1.9,Routine Inspection
+8,AC-001,2022-04-02,Scheduled,1.2,Routine Inspection
+9,AC-001,2025-04-11,Scheduled,1.8,Routine Inspection
+10,AC-001,2022-06-21,Scheduled,1.3,Routine Inspection
+11,AC-001,2023-10-04,Scheduled,3.6,Routine Inspection
+12,AC-001,2025-06-05,Scheduled,1.6,Routine Inspection
+13,AC-001,2023-02-04,Unscheduled,4.4,Avionics
+14,AC-001,2023-08-10,Unscheduled,3.2,Other
+15,AC-001,2024-08-31,Unscheduled,0.5,Avionics
+16,AC-001,2022-01-12,Unscheduled,0.5,Engine
+17,AC-001,2022-11-14,Unscheduled,3.3,Sensor/Payload
+18,AC-001,2022-05-05,Unscheduled,2.2,Sensor/Payload
+19,AC-001,2025-03-30,Unscheduled,0.8,Airframe
+20,AC-001,2022-03-19,Unscheduled,2.4,Engine
+21,AC-001,2024-02-15,Unscheduled,1.8,Sensor/Payload
+22,AC-001,2021-03-12,Unscheduled,3.3,Airframe
+23,AC-001,2025-06-12,Unscheduled,2.6,Sensor/Payload
+24,AC-002,2021-06-18,Scheduled,3.5,Routine Inspection
+25,AC-002,2024-07-09,Scheduled,3.8,Routine Inspection
+26,AC-002,2021-01-19,Scheduled,2.2,Routine Inspection
+27,AC-002,2023-10-30,Scheduled,1.1,Routine Inspection
+28,AC-002,2022-11-14,Scheduled,3.0,Routine Inspection
+29,AC-002,2024-11-23,Scheduled,1.8,Routine Inspection
+30,AC-002,2021-11-25,Scheduled,3.9,Routine Inspection
+31,AC-002,2025-08-26,Scheduled,1.2,Routine Inspection
+32,AC-002,2022-01-20,Scheduled,3.3,Routine Inspection
+33,AC-002,2025-02-09,Scheduled,2.0,Routine Inspection
+34,AC-002,2025-12-05,Scheduled,1.2,Routine Inspection
+35,AC-002,2021-09-10,Scheduled,1.7,Routine Inspection
+36,AC-002,2024-03-11,Unscheduled,2.5,Engine
+37,AC-002,2023-05-21,Unscheduled,0.5,Avionics
+38,AC-002,2021-07-08,Unscheduled,11.3,Other
+39,AC-002,2024-01-27,Unscheduled,0.5,Sensor/Payload
+40,AC-002,2021-08-23,Unscheduled,0.5,Avionics
+41,AC-002,2022-07-21,Unscheduled,0.5,Sensor/Payload
+42,AC-002,2022-06-15,Unscheduled,1.3,Sensor/Payload
+43,AC-002,2023-12-17,Unscheduled,8.4,Sensor/Payload
+44,AC-002,2023-10-12,Unscheduled,0.5,Other
+45,AC-002,2023-07-19,Unscheduled,7.2,Airframe
+46,AC-003,2021-12-16,Scheduled,3.1,Routine Inspection
+47,AC-003,2022-10-03,Scheduled,1.7,Routine Inspection
+48,AC-003,2023-12-14,Scheduled,4.0,Routine Inspection
+49,AC-003,2023-06-16,Scheduled,3.6,Routine Inspection
+50,AC-003,2023-10-25,Scheduled,1.4,Routine Inspection
+51,AC-003,2025-12-14,Scheduled,2.3,Routine Inspection
+52,AC-003,2021-10-19,Scheduled,2.6,Routine Inspection
+53,AC-003,2023-10-07,Scheduled,2.2,Routine Inspection
+54,AC-003,2021-04-26,Scheduled,3.0,Routine Inspection
+55,AC-003,2023-05-26,Scheduled,2.3,Routine Inspection
+56,AC-003,2022-02-08,Scheduled,3.4,Routine Inspection
+57,AC-003,2025-06-26,Scheduled,2.1,Routine Inspection
+58,AC-003,2022-08-21,Scheduled,3.3,Routine Inspection
+59,AC-003,2021-05-03,Unscheduled,0.5,Sensor/Payload
+60,AC-003,2023-11-02,Unscheduled,0.8,Sensor/Payload
+61,AC-003,2023-07-29,Unscheduled,0.5,Airframe
+62,AC-003,2025-04-22,Unscheduled,3.2,Engine
+63,AC-003,2025-01-08,Unscheduled,3.7,Engine
+64,AC-003,2025-05-30,Unscheduled,1.1,Sensor/Payload
+65,AC-003,2022-12-24,Unscheduled,0.8,Airframe
+66,AC-003,2023-03-06,Unscheduled,3.6,Engine
+67,AC-004,2024-10-28,Scheduled,3.0,Routine Inspection
+68,AC-004,2024-08-30,Scheduled,3.2,Routine Inspection
+69,AC-004,2022-04-16,Scheduled,1.8,Routine Inspection
+70,AC-004,2023-09-09,Scheduled,1.9,Routine Inspection
+71,AC-004,2024-07-15,Scheduled,2.2,Routine Inspection
+72,AC-004,2022-10-24,Scheduled,1.1,Routine Inspection
+73,AC-004,2024-09-09,Scheduled,1.8,Routine Inspection
+74,AC-004,2023-12-10,Scheduled,1.2,Routine Inspection
+75,AC-004,2024-08-09,Scheduled,3.8,Routine Inspection
+76,AC-004,2025-06-16,Scheduled,2.8,Routine Inspection
+77,AC-004,2021-11-01,Scheduled,2.1,Routine Inspection
+78,AC-004,2025-03-12,Scheduled,3.2,Routine Inspection
+79,AC-004,2021-02-02,Scheduled,1.4,Routine Inspection
+80,AC-004,2023-12-03,Unscheduled,0.5,Sensor/Payload
+81,AC-004,2021-01-03,Unscheduled,0.8,Avionics
+82,AC-004,2025-06-28,Unscheduled,0.5,Avionics
+83,AC-004,2022-02-02,Unscheduled,0.7,Engine
+84,AC-004,2021-07-25,Unscheduled,1.5,Avionics
+85,AC-004,2022-01-28,Unscheduled,3.8,Airframe
+86,AC-004,2021-01-16,Unscheduled,1.9,Sensor/Payload
+87,AC-005,2021-04-06,Scheduled,2.1,Routine Inspection
+88,AC-005,2025-07-30,Scheduled,2.8,Routine Inspection
+89,AC-005,2023-06-25,Scheduled,1.0,Routine Inspection
+90,AC-005,2024-02-02,Scheduled,1.0,Routine Inspection
+91,AC-005,2025-02-16,Scheduled,3.8,Routine Inspection
+92,AC-005,2024-11-04,Scheduled,1.1,Routine Inspection
+93,AC-005,2023-12-03,Scheduled,2.8,Routine Inspection
+94,AC-005,2025-09-11,Scheduled,3.8,Routine Inspection
+95,AC-005,2021-01-10,Scheduled,1.3,Routine Inspection
+96,AC-005,2024-11-14,Scheduled,2.9,Routine Inspection
+97,AC-005,2021-12-14,Scheduled,1.6,Routine Inspection
+98,AC-005,2022-06-04,Scheduled,2.3,Routine Inspection
+99,AC-005,2021-01-12,Scheduled,3.7,Routine Inspection
+100,AC-005,2023-08-10,Unscheduled,3.8,Sensor/Payload
+101,AC-005,2025-08-02,Unscheduled,8.3,Engine
+102,AC-005,2022-08-28,Unscheduled,3.8,Avionics
+103,AC-005,2025-10-29,Unscheduled,9.3,Airframe
+104,AC-005,2022-01-27,Unscheduled,0.9,Airframe
+105,AC-006,2022-06-20,Scheduled,2.4,Routine Inspection
+106,AC-006,2024-11-24,Scheduled,1.1,Routine Inspection
+107,AC-006,2021-06-28,Scheduled,2.5,Routine Inspection
+108,AC-006,2025-10-22,Scheduled,1.2,Routine Inspection
+109,AC-006,2021-08-20,Scheduled,3.9,Routine Inspection
+110,AC-006,2024-03-18,Scheduled,3.9,Routine Inspection
+111,AC-006,2022-03-29,Scheduled,1.4,Routine Inspection
+112,AC-006,2023-08-24,Scheduled,1.4,Routine Inspection
+113,AC-006,2023-09-08,Scheduled,1.4,Routine Inspection
+114,AC-006,2021-05-22,Scheduled,3.6,Routine Inspection
+115,AC-006,2021-03-10,Scheduled,3.4,Routine Inspection
+116,AC-006,2022-02-09,Scheduled,1.7,Routine Inspection
+117,AC-006,2025-06-23,Unscheduled,3.3,Sensor/Payload
+118,AC-006,2024-12-02,Unscheduled,1.1,Engine
+119,AC-006,2022-04-24,Unscheduled,3.0,Sensor/Payload
+120,AC-006,2025-10-21,Unscheduled,1.9,Engine
+121,AC-006,2021-10-11,Unscheduled,1.8,Sensor/Payload
+122,AC-006,2023-12-07,Unscheduled,10.3,Avionics
+123,AC-006,2023-10-21,Unscheduled,3.9,Sensor/Payload
+124,AC-007,2023-11-06,Scheduled,2.1,Routine Inspection
+125,AC-007,2025-11-22,Scheduled,3.8,Routine Inspection
+126,AC-007,2025-04-10,Scheduled,1.5,Routine Inspection
+127,AC-007,2023-04-11,Scheduled,3.9,Routine Inspection
+128,AC-007,2023-11-09,Scheduled,3.1,Routine Inspection
+129,AC-007,2021-10-26,Scheduled,1.9,Routine Inspection
+130,AC-007,2022-03-13,Scheduled,2.9,Routine Inspection
+131,AC-007,2025-07-05,Scheduled,1.2,Routine Inspection
+132,AC-007,2023-01-22,Scheduled,2.4,Routine Inspection
+133,AC-007,2022-04-10,Scheduled,3.0,Routine Inspection
+134,AC-007,2025-08-16,Scheduled,3.7,Routine Inspection
+135,AC-007,2022-10-28,Scheduled,2.5,Routine Inspection
+136,AC-007,2025-02-24,Unscheduled,0.7,Sensor/Payload
+137,AC-007,2025-02-19,Unscheduled,9.0,Airframe
+138,AC-007,2025-07-18,Unscheduled,5.5,Sensor/Payload
+139,AC-007,2022-10-15,Unscheduled,5.6,Engine
+140,AC-007,2022-04-30,Unscheduled,7.1,Avionics
+141,AC-007,2022-06-08,Unscheduled,7.9,Engine
+142,AC-007,2023-12-20,Unscheduled,1.6,Avionics
+143,AC-007,2024-11-10,Unscheduled,1.1,Sensor/Payload
+144,AC-007,2021-03-21,Unscheduled,2.8,Engine
+145,AC-008,2023-07-07,Scheduled,1.6,Routine Inspection
+146,AC-008,2023-06-08,Scheduled,3.2,Routine Inspection
+147,AC-008,2025-05-11,Scheduled,3.8,Routine Inspection
+148,AC-008,2025-05-18,Scheduled,3.8,Routine Inspection
+149,AC-008,2025-07-13,Scheduled,1.0,Routine Inspection
+150,AC-008,2021-09-07,Scheduled,1.5,Routine Inspection
+151,AC-008,2021-11-18,Scheduled,3.8,Routine Inspection
+152,AC-008,2025-08-09,Scheduled,2.9,Routine Inspection
+153,AC-008,2022-07-28,Scheduled,3.1,Routine Inspection
+154,AC-008,2025-01-30,Scheduled,2.1,Routine Inspection
+155,AC-008,2023-11-19,Scheduled,1.0,Routine Inspection
+156,AC-008,2022-01-28,Scheduled,1.6,Routine Inspection
+157,AC-008,2025-05-21,Scheduled,3.9,Routine Inspection
+158,AC-008,2023-08-29,Unscheduled,1.9,Airframe
+159,AC-008,2025-11-17,Unscheduled,2.9,Sensor/Payload
+160,AC-008,2021-12-24,Unscheduled,4.3,Airframe
+161,AC-008,2023-12-02,Unscheduled,0.5,Sensor/Payload
+162,AC-009,2021-03-05,Scheduled,2.3,Routine Inspection
+163,AC-009,2022-12-29,Scheduled,3.8,Routine Inspection
+164,AC-009,2025-10-09,Scheduled,2.2,Routine Inspection
+165,AC-009,2022-02-08,Scheduled,3.1,Routine Inspection
+166,AC-009,2023-06-05,Scheduled,1.8,Routine Inspection
+167,AC-009,2021-07-18,Scheduled,1.5,Routine Inspection
+168,AC-009,2023-07-11,Scheduled,1.1,Routine Inspection
+169,AC-009,2025-04-25,Scheduled,3.8,Routine Inspection
+170,AC-009,2021-11-19,Scheduled,2.6,Routine Inspection
+171,AC-009,2025-03-31,Scheduled,3.2,Routine Inspection
+172,AC-009,2023-07-26,Scheduled,2.4,Routine Inspection
+173,AC-009,2022-03-06,Scheduled,2.7,Routine Inspection
+174,AC-009,2023-10-03,Unscheduled,5.5,Sensor/Payload
+175,AC-009,2025-07-28,Unscheduled,0.9,Sensor/Payload
+176,AC-009,2023-01-08,Unscheduled,0.5,Avionics
+177,AC-009,2021-09-08,Unscheduled,0.5,Other
+178,AC-009,2025-10-17,Unscheduled,0.6,Avionics
+179,AC-009,2023-01-11,Unscheduled,1.3,Avionics
+180,AC-009,2023-05-07,Unscheduled,2.0,Sensor/Payload
+181,AC-009,2024-03-23,Unscheduled,0.6,Avionics
+182,AC-009,2025-06-22,Unscheduled,4.3,Avionics
+183,AC-009,2024-08-18,Unscheduled,0.5,Airframe
+184,AC-009,2023-04-12,Unscheduled,2.6,Sensor/Payload
+185,AC-009,2021-05-30,Unscheduled,1.8,Engine
+186,AC-009,2021-07-06,Unscheduled,2.6,Sensor/Payload
+187,AC-009,2024-03-07,Unscheduled,2.0,Engine
+188,AC-009,2022-11-14,Unscheduled,4.2,Sensor/Payload
+189,AC-010,2022-01-06,Scheduled,2.0,Routine Inspection
+190,AC-010,2021-04-07,Scheduled,2.6,Routine Inspection
+191,AC-010,2024-08-14,Scheduled,1.7,Routine Inspection
+192,AC-010,2021-02-22,Scheduled,3.8,Routine Inspection
+193,AC-010,2025-02-20,Scheduled,2.3,Routine Inspection
+194,AC-010,2021-03-13,Scheduled,2.3,Routine Inspection
+195,AC-010,2022-03-30,Scheduled,1.1,Routine Inspection
+196,AC-010,2022-08-02,Scheduled,2.2,Routine Inspection
+197,AC-010,2021-06-01,Scheduled,1.0,Routine Inspection
+198,AC-010,2023-04-01,Scheduled,3.3,Routine Inspection
+199,AC-010,2023-09-26,Scheduled,1.1,Routine Inspection
+200,AC-010,2022-11-14,Unscheduled,1.2,Avionics
+201,AC-010,2021-02-13,Unscheduled,6.7,Airframe
+202,AC-010,2022-08-02,Unscheduled,0.5,Other
+203,AC-010,2021-08-02,Unscheduled,3.5,Engine
+204,AC-010,2023-09-08,Unscheduled,3.6,Airframe
+205,AC-010,2025-04-10,Unscheduled,0.5,Airframe
+206,AC-010,2023-11-25,Unscheduled,1.4,Avionics
+207,AC-010,2024-12-27,Unscheduled,4.7,Other
+208,AC-010,2024-01-16,Unscheduled,1.5,Other
+209,AC-010,2025-11-28,Unscheduled,1.4,Airframe
+210,AC-010,2024-03-01,Unscheduled,5.0,Sensor/Payload
+211,AC-010,2021-03-28,Unscheduled,2.1,Other
+212,AC-010,2021-11-02,Unscheduled,0.7,Engine
+213,AC-010,2022-06-04,Unscheduled,3.2,Other
+214,AC-010,2022-03-22,Unscheduled,1.5,Engine
+215,AC-011,2023-01-04,Scheduled,1.5,Routine Inspection
+216,AC-011,2021-12-21,Scheduled,1.4,Routine Inspection
+217,AC-011,2021-08-24,Scheduled,2.2,Routine Inspection
+218,AC-011,2022-05-12,Scheduled,1.6,Routine Inspection
+219,AC-011,2021-07-18,Scheduled,2.7,Routine Inspection
+220,AC-011,2024-10-21,Scheduled,3.0,Routine Inspection
+221,AC-011,2023-09-15,Scheduled,3.8,Routine Inspection
+222,AC-011,2021-07-14,Scheduled,1.4,Routine Inspection
+223,AC-011,2023-10-24,Scheduled,2.7,Routine Inspection
+224,AC-011,2023-06-08,Scheduled,3.3,Routine Inspection
+225,AC-011,2025-12-21,Scheduled,3.8,Routine Inspection
+226,AC-011,2022-09-05,Unscheduled,0.9,Avionics
+227,AC-011,2022-01-27,Unscheduled,14.3,Sensor/Payload
+228,AC-011,2024-11-16,Unscheduled,1.3,Engine
+229,AC-011,2023-12-08,Unscheduled,0.7,Sensor/Payload
+230,AC-011,2022-02-18,Unscheduled,0.5,Sensor/Payload
+231,AC-011,2025-05-02,Unscheduled,1.7,Avionics
+232,AC-011,2021-07-13,Unscheduled,8.7,Sensor/Payload
+233,AC-011,2021-08-20,Unscheduled,0.6,Airframe
+234,AC-011,2025-06-01,Unscheduled,1.1,Airframe
+235,AC-011,2025-09-04,Unscheduled,0.5,Sensor/Payload
+236,AC-011,2023-04-10,Unscheduled,0.5,Sensor/Payload
+237,AC-011,2022-08-03,Unscheduled,0.8,Engine
+238,AC-011,2023-08-11,Unscheduled,4.6,Engine
+239,AC-011,2022-02-19,Unscheduled,0.5,Engine
+240,AC-011,2021-03-01,Unscheduled,2.1,Sensor/Payload
+241,AC-011,2022-04-08,Unscheduled,7.9,Avionics
+242,AC-012,2023-07-07,Scheduled,2.0,Routine Inspection
+243,AC-012,2024-11-01,Scheduled,2.2,Routine Inspection
+244,AC-012,2024-12-15,Scheduled,2.0,Routine Inspection
+245,AC-012,2023-10-09,Scheduled,2.2,Routine Inspection
+246,AC-012,2024-10-31,Scheduled,1.4,Routine Inspection
+247,AC-012,2022-01-24,Scheduled,3.0,Routine Inspection
+248,AC-012,2022-10-29,Scheduled,1.6,Routine Inspection
+249,AC-012,2024-10-22,Scheduled,3.1,Routine Inspection
+250,AC-012,2021-05-29,Scheduled,3.3,Routine Inspection
+251,AC-012,2023-12-13,Scheduled,1.4,Routine Inspection
+252,AC-012,2023-05-15,Scheduled,3.9,Routine Inspection
+253,AC-012,2021-05-12,Scheduled,3.4,Routine Inspection
+254,AC-012,2023-07-23,Unscheduled,3.1,Avionics
+255,AC-012,2022-01-25,Unscheduled,0.5,Avionics
+256,AC-012,2022-08-02,Unscheduled,1.4,Avionics
+257,AC-012,2023-05-25,Unscheduled,2.3,Avionics
+258,AC-012,2021-08-11,Unscheduled,2.5,Airframe
+259,AC-012,2023-02-17,Unscheduled,2.5,Avionics
+260,AC-012,2022-08-14,Unscheduled,2.7,Avionics
+261,AC-013,2023-08-06,Scheduled,2.1,Routine Inspection
+262,AC-013,2025-01-10,Scheduled,1.5,Routine Inspection
+263,AC-013,2021-03-01,Scheduled,3.5,Routine Inspection
+264,AC-013,2024-10-13,Scheduled,1.8,Routine Inspection
+265,AC-013,2023-05-15,Scheduled,1.8,Routine Inspection
+266,AC-013,2021-09-27,Scheduled,3.2,Routine Inspection
+267,AC-013,2024-03-23,Scheduled,3.6,Routine Inspection
+268,AC-013,2022-12-29,Scheduled,1.2,Routine Inspection
+269,AC-013,2024-05-18,Scheduled,3.2,Routine Inspection
+270,AC-013,2021-12-28,Scheduled,3.0,Routine Inspection
+271,AC-013,2022-08-10,Scheduled,1.5,Routine Inspection
+272,AC-013,2025-05-08,Scheduled,1.7,Routine Inspection
+273,AC-013,2021-07-08,Unscheduled,8.9,Other
+274,AC-013,2023-08-03,Unscheduled,1.1,Other
+275,AC-013,2022-08-03,Unscheduled,1.8,Avionics
+276,AC-013,2022-08-25,Unscheduled,6.3,Avionics
+277,AC-013,2025-08-06,Unscheduled,4.4,Other
+278,AC-013,2021-08-08,Unscheduled,1.7,Engine
+279,AC-013,2024-10-21,Unscheduled,5.7,Airframe
+280,AC-013,2025-04-09,Unscheduled,3.3,Sensor/Payload
+281,AC-013,2025-11-16,Unscheduled,3.5,Engine
+282,AC-013,2024-01-15,Unscheduled,0.5,Engine
+283,AC-014,2023-08-20,Scheduled,2.7,Routine Inspection
+284,AC-014,2022-04-25,Scheduled,1.7,Routine Inspection
+285,AC-014,2023-01-31,Scheduled,3.5,Routine Inspection
+286,AC-014,2022-08-25,Scheduled,3.4,Routine Inspection
+287,AC-014,2023-10-16,Scheduled,3.2,Routine Inspection
+288,AC-014,2022-04-27,Scheduled,2.8,Routine Inspection
+289,AC-014,2022-11-30,Scheduled,2.4,Routine Inspection
+290,AC-014,2022-04-16,Scheduled,3.4,Routine Inspection
+291,AC-014,2025-02-12,Scheduled,3.0,Routine Inspection
+292,AC-014,2025-04-22,Scheduled,1.9,Routine Inspection
+293,AC-014,2023-06-04,Scheduled,3.1,Routine Inspection
+294,AC-014,2021-09-26,Unscheduled,4.5,Avionics
+295,AC-014,2023-10-17,Unscheduled,4.3,Airframe
+296,AC-014,2024-01-29,Unscheduled,6.7,Airframe
+297,AC-014,2025-03-24,Unscheduled,3.5,Engine
+298,AC-014,2024-09-29,Unscheduled,6.7,Engine
+299,AC-014,2024-12-21,Unscheduled,4.0,Avionics
+300,AC-014,2024-04-01,Unscheduled,2.3,Airframe
+301,AC-014,2021-11-22,Unscheduled,0.9,Engine
+302,AC-014,2025-05-13,Unscheduled,0.5,Airframe
+303,AC-014,2024-07-03,Unscheduled,5.5,Sensor/Payload
+304,AC-014,2024-07-16,Unscheduled,2.9,Engine
+305,AC-014,2024-04-18,Unscheduled,5.3,Engine
+306,AC-014,2022-03-26,Unscheduled,0.5,Other
+307,AC-014,2025-10-17,Unscheduled,0.6,Engine
+308,AC-014,2025-07-25,Unscheduled,0.9,Avionics
+309,AC-015,2025-02-11,Scheduled,1.4,Routine Inspection
+310,AC-015,2022-03-23,Scheduled,1.9,Routine Inspection
+311,AC-015,2021-03-24,Scheduled,2.4,Routine Inspection
+312,AC-015,2025-01-29,Scheduled,3.9,Routine Inspection
+313,AC-015,2023-01-26,Scheduled,2.5,Routine Inspection
+314,AC-015,2023-04-01,Scheduled,3.0,Routine Inspection
+315,AC-015,2024-12-24,Scheduled,3.3,Routine Inspection
+316,AC-015,2023-12-31,Scheduled,1.3,Routine Inspection
+317,AC-015,2024-01-15,Scheduled,2.6,Routine Inspection
+318,AC-015,2023-06-22,Scheduled,1.9,Routine Inspection
+319,AC-015,2021-06-01,Scheduled,3.6,Routine Inspection
+320,AC-015,2025-06-03,Scheduled,4.0,Routine Inspection
+321,AC-015,2023-05-22,Unscheduled,3.2,Avionics
+322,AC-015,2025-02-23,Unscheduled,2.4,Engine
+323,AC-015,2023-11-05,Unscheduled,0.5,Sensor/Payload
+324,AC-015,2025-08-15,Unscheduled,3.9,Engine
+325,AC-015,2022-11-29,Unscheduled,6.4,Airframe
+326,AC-015,2025-05-18,Unscheduled,3.1,Sensor/Payload
+327,AC-015,2025-06-04,Unscheduled,2.2,Airframe
+328,AC-015,2025-05-26,Unscheduled,3.2,Engine
+329,AC-015,2023-03-24,Unscheduled,3.2,Airframe
+330,AC-016,2024-11-29,Scheduled,3.0,Routine Inspection
+331,AC-016,2023-08-23,Scheduled,1.2,Routine Inspection
+332,AC-016,2022-09-16,Scheduled,1.6,Routine Inspection
+333,AC-016,2021-08-23,Scheduled,3.9,Routine Inspection
+334,AC-016,2024-10-25,Scheduled,2.5,Routine Inspection
+335,AC-016,2024-07-02,Scheduled,2.9,Routine Inspection
+336,AC-016,2025-10-24,Scheduled,1.1,Routine Inspection
+337,AC-016,2024-08-29,Scheduled,2.9,Routine Inspection
+338,AC-016,2021-11-23,Scheduled,1.7,Routine Inspection
+339,AC-016,2023-11-09,Scheduled,1.8,Routine Inspection
+340,AC-016,2025-06-03,Scheduled,3.9,Routine Inspection
+341,AC-016,2023-02-07,Scheduled,3.4,Routine Inspection
+342,AC-016,2023-03-05,Unscheduled,6.4,Airframe
+343,AC-016,2024-10-09,Unscheduled,3.8,Sensor/Payload
+344,AC-016,2025-08-12,Unscheduled,1.6,Airframe
+345,AC-016,2022-06-27,Unscheduled,1.2,Sensor/Payload
+346,AC-016,2021-06-03,Unscheduled,4.5,Engine
+347,AC-016,2021-06-03,Unscheduled,4.5,Sensor/Payload
+348,AC-016,2023-09-14,Unscheduled,1.4,Sensor/Payload
+349,AC-016,2023-05-28,Unscheduled,0.5,Avionics
+350,AC-016,2021-05-01,Unscheduled,3.6,Avionics
+351,AC-016,2025-06-23,Unscheduled,0.8,Engine
+352,AC-016,2024-01-01,Unscheduled,0.5,Engine
+353,AC-016,2024-10-13,Unscheduled,2.1,Sensor/Payload
+354,AC-017,2022-09-15,Scheduled,2.7,Routine Inspection
+355,AC-017,2025-07-20,Scheduled,3.6,Routine Inspection
+356,AC-017,2024-07-30,Scheduled,1.5,Routine Inspection
+357,AC-017,2025-04-17,Scheduled,2.8,Routine Inspection
+358,AC-017,2021-09-08,Scheduled,1.3,Routine Inspection
+359,AC-017,2023-12-02,Scheduled,2.6,Routine Inspection
+360,AC-017,2021-06-25,Scheduled,3.0,Routine Inspection
+361,AC-017,2025-05-04,Scheduled,1.5,Routine Inspection
+362,AC-017,2025-12-16,Scheduled,1.5,Routine Inspection
+363,AC-017,2021-12-17,Scheduled,3.4,Routine Inspection
+364,AC-017,2022-11-19,Scheduled,2.5,Routine Inspection
+365,AC-017,2021-08-28,Scheduled,1.8,Routine Inspection
+366,AC-017,2025-08-27,Scheduled,3.2,Routine Inspection
+367,AC-017,2024-09-14,Unscheduled,1.7,Avionics
+368,AC-017,2024-01-27,Unscheduled,3.4,Avionics
+369,AC-017,2023-12-23,Unscheduled,1.1,Sensor/Payload
+370,AC-017,2021-04-23,Unscheduled,1.4,Avionics
+371,AC-017,2024-01-29,Unscheduled,2.3,Avionics
+372,AC-017,2021-10-10,Unscheduled,3.7,Airframe
+373,AC-017,2023-05-05,Unscheduled,4.2,Sensor/Payload
+374,AC-017,2021-09-22,Unscheduled,2.7,Avionics
+375,AC-018,2021-11-21,Scheduled,3.6,Routine Inspection
+376,AC-018,2024-10-31,Scheduled,1.4,Routine Inspection
+377,AC-018,2021-08-15,Scheduled,3.1,Routine Inspection
+378,AC-018,2022-08-11,Scheduled,1.3,Routine Inspection
+379,AC-018,2021-11-13,Scheduled,1.2,Routine Inspection
+380,AC-018,2025-04-02,Scheduled,2.3,Routine Inspection
+381,AC-018,2021-03-13,Scheduled,2.3,Routine Inspection
+382,AC-018,2023-06-16,Scheduled,1.5,Routine Inspection
+383,AC-018,2023-04-01,Scheduled,1.7,Routine Inspection
+384,AC-018,2023-09-07,Scheduled,3.9,Routine Inspection
+385,AC-018,2025-05-24,Scheduled,3.8,Routine Inspection
+386,AC-018,2021-11-24,Scheduled,1.5,Routine Inspection
+387,AC-018,2021-12-15,Scheduled,2.3,Routine Inspection
+388,AC-018,2021-10-17,Unscheduled,4.4,Sensor/Payload
+389,AC-018,2022-03-12,Unscheduled,2.5,Avionics
+390,AC-018,2021-05-09,Unscheduled,7.3,Avionics
+391,AC-018,2021-08-11,Unscheduled,0.9,Engine
+392,AC-018,2023-07-19,Unscheduled,0.7,Airframe
+393,AC-018,2023-02-13,Unscheduled,1.0,Engine
+394,AC-018,2022-07-07,Unscheduled,7.6,Sensor/Payload
+395,AC-018,2021-07-25,Unscheduled,0.5,Avionics
+396,AC-019,2021-10-13,Scheduled,2.9,Routine Inspection
+397,AC-019,2025-01-29,Scheduled,2.4,Routine Inspection
+398,AC-019,2022-02-12,Scheduled,1.1,Routine Inspection
+399,AC-019,2021-07-14,Scheduled,2.3,Routine Inspection
+400,AC-019,2023-10-13,Scheduled,3.4,Routine Inspection
+401,AC-019,2021-10-21,Scheduled,3.2,Routine Inspection
+402,AC-019,2022-12-30,Scheduled,2.7,Routine Inspection
+403,AC-019,2024-05-26,Scheduled,3.5,Routine Inspection
+404,AC-019,2022-11-20,Scheduled,1.1,Routine Inspection
+405,AC-019,2025-05-16,Scheduled,1.4,Routine Inspection
+406,AC-019,2025-05-28,Scheduled,3.1,Routine Inspection
+407,AC-019,2025-09-18,Scheduled,3.9,Routine Inspection
+408,AC-019,2022-02-15,Unscheduled,0.5,Avionics
+409,AC-019,2022-03-31,Unscheduled,3.8,Airframe
+410,AC-019,2022-02-02,Unscheduled,7.5,Engine
+411,AC-019,2021-03-13,Unscheduled,0.5,Engine
+412,AC-019,2022-07-26,Unscheduled,0.7,Airframe
+413,AC-019,2025-07-16,Unscheduled,1.5,Sensor/Payload
+414,AC-019,2025-09-18,Unscheduled,1.9,Avionics
+415,AC-019,2024-02-14,Unscheduled,1.4,Sensor/Payload
+416,AC-020,2023-04-15,Scheduled,1.3,Routine Inspection
+417,AC-020,2025-01-10,Scheduled,2.6,Routine Inspection
+418,AC-020,2025-07-12,Scheduled,2.2,Routine Inspection
+419,AC-020,2021-07-29,Scheduled,1.2,Routine Inspection
+420,AC-020,2023-11-08,Scheduled,3.0,Routine Inspection
+421,AC-020,2021-06-14,Scheduled,3.3,Routine Inspection
+422,AC-020,2021-03-03,Scheduled,3.4,Routine Inspection
+423,AC-020,2021-05-27,Scheduled,2.6,Routine Inspection
+424,AC-020,2023-02-11,Scheduled,1.8,Routine Inspection
+425,AC-020,2022-12-07,Scheduled,1.9,Routine Inspection
+426,AC-020,2021-11-01,Scheduled,3.0,Routine Inspection
+427,AC-020,2025-04-01,Scheduled,1.6,Routine Inspection
+428,AC-020,2025-02-15,Unscheduled,1.8,Avionics
+429,AC-020,2023-03-24,Unscheduled,1.9,Avionics
+430,AC-020,2023-03-05,Unscheduled,5.1,Avionics
+431,AC-020,2025-06-30,Unscheduled,0.5,Engine
+432,AC-020,2023-10-04,Unscheduled,2.6,Airframe
+433,AC-020,2024-01-15,Unscheduled,0.5,Engine
+434,AC-020,2022-04-03,Unscheduled,1.7,Engine
+435,AC-020,2021-06-02,Unscheduled,2.1,Engine
+436,AC-020,2021-04-05,Unscheduled,4.4,Avionics
+437,AC-020,2022-09-28,Unscheduled,0.5,Sensor/Payload
+438,AC-020,2022-04-21,Unscheduled,1.6,Avionics
+439,AC-020,2024-06-26,Unscheduled,1.1,Airframe
+440,AC-020,2024-04-20,Unscheduled,3.2,Engine
+441,AC-021,2022-07-23,Scheduled,3.9,Routine Inspection
+442,AC-021,2023-12-07,Scheduled,3.6,Routine Inspection
+443,AC-021,2021-05-14,Scheduled,3.8,Routine Inspection
+444,AC-021,2021-04-09,Scheduled,3.6,Routine Inspection
+445,AC-021,2021-12-30,Scheduled,2.7,Routine Inspection
+446,AC-021,2024-06-28,Scheduled,3.2,Routine Inspection
+447,AC-021,2023-09-28,Scheduled,2.7,Routine Inspection
+448,AC-021,2021-09-27,Scheduled,2.5,Routine Inspection
+449,AC-021,2022-12-07,Scheduled,3.8,Routine Inspection
+450,AC-021,2025-03-08,Scheduled,2.4,Routine Inspection
+451,AC-021,2023-02-20,Scheduled,3.6,Routine Inspection
+452,AC-021,2023-12-16,Scheduled,1.9,Routine Inspection
+453,AC-021,2024-11-25,Scheduled,1.9,Routine Inspection
+454,AC-021,2023-03-06,Unscheduled,21.0,Airframe
+455,AC-021,2024-12-05,Unscheduled,0.6,Engine
+456,AC-021,2021-07-27,Unscheduled,0.5,Avionics
+457,AC-021,2023-03-20,Unscheduled,10.2,Avionics
+458,AC-021,2023-08-21,Unscheduled,4.0,Airframe
+459,AC-021,2021-04-30,Unscheduled,5.2,Airframe
+460,AC-021,2021-10-17,Unscheduled,1.1,Avionics
+461,AC-021,2022-11-19,Unscheduled,2.0,Airframe
+462,AC-022,2025-01-16,Scheduled,1.8,Routine Inspection
+463,AC-022,2024-10-06,Scheduled,3.3,Routine Inspection
+464,AC-022,2021-04-27,Scheduled,2.7,Routine Inspection
+465,AC-022,2022-06-26,Scheduled,2.7,Routine Inspection
+466,AC-022,2021-09-21,Scheduled,2.9,Routine Inspection
+467,AC-022,2024-06-20,Scheduled,1.9,Routine Inspection
+468,AC-022,2023-05-06,Scheduled,3.1,Routine Inspection
+469,AC-022,2023-09-13,Scheduled,3.7,Routine Inspection
+470,AC-022,2025-10-15,Scheduled,2.2,Routine Inspection
+471,AC-022,2025-11-10,Scheduled,2.1,Routine Inspection
+472,AC-022,2023-05-26,Scheduled,1.3,Routine Inspection
+473,AC-022,2024-05-06,Scheduled,3.2,Routine Inspection
+474,AC-022,2022-10-24,Unscheduled,3.4,Avionics
+475,AC-022,2022-11-01,Unscheduled,3.4,Airframe
+476,AC-022,2022-10-31,Unscheduled,7.7,Avionics
+477,AC-022,2021-08-20,Unscheduled,1.0,Airframe
+478,AC-022,2022-05-05,Unscheduled,8.4,Other
+479,AC-022,2022-10-18,Unscheduled,2.5,Other
+480,AC-022,2023-11-12,Unscheduled,3.4,Airframe
+481,AC-022,2021-08-28,Unscheduled,2.0,Other
+482,AC-022,2024-04-06,Unscheduled,0.7,Avionics
+483,AC-022,2021-03-15,Unscheduled,2.6,Sensor/Payload
+484,AC-023,2022-02-20,Scheduled,1.3,Routine Inspection
+485,AC-023,2024-01-26,Scheduled,1.9,Routine Inspection
+486,AC-023,2024-12-24,Scheduled,3.1,Routine Inspection
+487,AC-023,2023-04-14,Scheduled,3.4,Routine Inspection
+488,AC-023,2022-04-05,Scheduled,2.5,Routine Inspection
+489,AC-023,2024-11-22,Scheduled,1.3,Routine Inspection
+490,AC-023,2022-07-04,Scheduled,3.9,Routine Inspection
+491,AC-023,2021-06-17,Scheduled,2.8,Routine Inspection
+492,AC-023,2023-05-25,Scheduled,2.2,Routine Inspection
+493,AC-023,2023-07-18,Scheduled,2.1,Routine Inspection
+494,AC-023,2022-11-09,Scheduled,1.7,Routine Inspection
+495,AC-023,2024-08-28,Unscheduled,3.3,Avionics
+496,AC-023,2022-02-07,Unscheduled,7.7,Other
+497,AC-023,2024-06-04,Unscheduled,2.1,Sensor/Payload
+498,AC-023,2023-03-23,Unscheduled,2.3,Avionics
+499,AC-023,2021-05-04,Unscheduled,4.6,Engine
+500,AC-023,2023-05-10,Unscheduled,9.3,Other
+501,AC-023,2024-01-21,Unscheduled,0.6,Sensor/Payload
+502,AC-023,2025-07-04,Unscheduled,1.8,Engine
+503,AC-023,2025-10-28,Unscheduled,0.5,Engine
+504,AC-023,2025-06-24,Unscheduled,2.9,Engine
+505,AC-023,2023-11-09,Unscheduled,3.5,Avionics
+506,AC-023,2022-01-17,Unscheduled,2.0,Avionics
+507,AC-023,2025-08-27,Unscheduled,6.3,Avionics
+508,AC-023,2024-05-16,Unscheduled,1.4,Airframe
+509,AC-024,2024-08-16,Scheduled,2.6,Routine Inspection
+510,AC-024,2021-07-28,Scheduled,1.3,Routine Inspection
+511,AC-024,2024-10-06,Scheduled,2.0,Routine Inspection
+512,AC-024,2023-04-15,Scheduled,3.5,Routine Inspection
+513,AC-024,2023-03-31,Scheduled,2.4,Routine Inspection
+514,AC-024,2022-03-02,Scheduled,1.6,Routine Inspection
+515,AC-024,2024-02-13,Scheduled,3.9,Routine Inspection
+516,AC-024,2024-09-08,Scheduled,1.0,Routine Inspection
+517,AC-024,2023-05-29,Scheduled,1.1,Routine Inspection
+518,AC-024,2021-04-25,Scheduled,1.6,Routine Inspection
+519,AC-024,2024-12-22,Scheduled,2.2,Routine Inspection
+520,AC-024,2023-03-20,Unscheduled,5.9,Engine
+521,AC-024,2025-08-22,Unscheduled,2.5,Other
+522,AC-024,2024-04-11,Unscheduled,1.3,Airframe
+523,AC-024,2023-07-08,Unscheduled,3.8,Sensor/Payload
+524,AC-024,2021-05-31,Unscheduled,9.0,Airframe
+525,AC-024,2024-05-03,Unscheduled,10.1,Sensor/Payload
+526,AC-024,2023-09-03,Unscheduled,4.6,Avionics
+527,AC-024,2025-04-07,Unscheduled,1.3,Engine
+528,AC-024,2022-08-26,Unscheduled,0.5,Engine
+529,AC-024,2023-03-21,Unscheduled,0.7,Engine
+530,AC-024,2024-07-27,Unscheduled,2.2,Engine
+531,AC-024,2021-11-26,Unscheduled,0.5,Engine
+532,AC-024,2023-05-15,Unscheduled,5.2,Engine
+533,AC-024,2025-11-24,Unscheduled,2.2,Airframe
+534,AC-024,2021-09-21,Unscheduled,3.8,Airframe
+535,AC-025,2022-10-27,Scheduled,1.5,Routine Inspection
+536,AC-025,2022-05-31,Scheduled,2.8,Routine Inspection
+537,AC-025,2021-09-12,Scheduled,1.6,Routine Inspection
+538,AC-025,2023-08-12,Scheduled,3.3,Routine Inspection
+539,AC-025,2021-06-05,Scheduled,1.6,Routine Inspection
+540,AC-025,2024-04-05,Scheduled,3.8,Routine Inspection
+541,AC-025,2021-06-23,Scheduled,2.7,Routine Inspection
+542,AC-025,2025-11-19,Scheduled,3.6,Routine Inspection
+543,AC-025,2025-12-28,Scheduled,2.7,Routine Inspection
+544,AC-025,2021-07-19,Scheduled,1.2,Routine Inspection
+545,AC-025,2023-11-19,Scheduled,3.5,Routine Inspection
+546,AC-025,2022-09-04,Scheduled,1.7,Routine Inspection
+547,AC-025,2025-09-06,Scheduled,1.7,Routine Inspection
+548,AC-025,2023-02-21,Scheduled,1.4,Routine Inspection
+549,AC-025,2023-04-18,Unscheduled,1.4,Avionics
+550,AC-026,2023-04-16,Scheduled,2.5,Routine Inspection
+551,AC-026,2023-04-17,Scheduled,1.9,Routine Inspection
+552,AC-026,2025-10-06,Scheduled,3.1,Routine Inspection
+553,AC-026,2025-07-30,Scheduled,4.0,Routine Inspection
+554,AC-026,2022-02-14,Scheduled,1.8,Routine Inspection
+555,AC-026,2021-10-05,Scheduled,1.6,Routine Inspection
+556,AC-026,2021-04-22,Scheduled,3.6,Routine Inspection
+557,AC-026,2021-08-07,Scheduled,1.2,Routine Inspection
+558,AC-026,2023-11-02,Scheduled,3.7,Routine Inspection
+559,AC-026,2024-05-17,Scheduled,3.7,Routine Inspection
+560,AC-026,2025-04-13,Scheduled,1.8,Routine Inspection
+561,AC-026,2025-11-30,Scheduled,1.9,Routine Inspection
+562,AC-026,2023-09-25,Scheduled,1.1,Routine Inspection
+563,AC-026,2022-08-23,Scheduled,1.5,Routine Inspection
+564,AC-026,2022-09-05,Unscheduled,1.9,Other
+565,AC-026,2024-06-29,Unscheduled,4.3,Engine
+566,AC-026,2021-09-09,Unscheduled,4.3,Avionics
+567,AC-026,2024-11-28,Unscheduled,3.4,Sensor/Payload
+568,AC-026,2021-10-20,Unscheduled,2.1,Sensor/Payload
+569,AC-027,2022-10-11,Scheduled,1.8,Routine Inspection
+570,AC-027,2025-07-02,Scheduled,3.3,Routine Inspection
+571,AC-027,2024-08-18,Scheduled,2.1,Routine Inspection
+572,AC-027,2025-03-27,Scheduled,3.0,Routine Inspection
+573,AC-027,2023-10-13,Scheduled,1.4,Routine Inspection
+574,AC-027,2021-10-10,Scheduled,2.1,Routine Inspection
+575,AC-027,2025-05-21,Scheduled,2.8,Routine Inspection
+576,AC-027,2021-02-25,Scheduled,1.6,Routine Inspection
+577,AC-027,2023-03-23,Scheduled,3.6,Routine Inspection
+578,AC-027,2025-06-11,Scheduled,3.2,Routine Inspection
+579,AC-027,2025-04-21,Scheduled,3.0,Routine Inspection
+580,AC-027,2022-02-13,Scheduled,3.1,Routine Inspection
+581,AC-027,2021-09-28,Scheduled,1.6,Routine Inspection
+582,AC-027,2022-05-22,Unscheduled,5.1,Airframe
+583,AC-027,2023-09-25,Unscheduled,3.8,Avionics
+584,AC-027,2022-07-24,Unscheduled,5.1,Engine
+585,AC-027,2021-10-11,Unscheduled,5.5,Avionics
+586,AC-027,2023-02-02,Unscheduled,1.4,Airframe
+587,AC-027,2023-05-22,Unscheduled,1.4,Avionics
+588,AC-027,2024-07-10,Unscheduled,2.5,Other
+589,AC-028,2021-04-28,Scheduled,1.5,Routine Inspection
+590,AC-028,2023-11-06,Scheduled,1.6,Routine Inspection
+591,AC-028,2023-09-10,Scheduled,1.3,Routine Inspection
+592,AC-028,2023-08-03,Scheduled,3.5,Routine Inspection
+593,AC-028,2022-06-05,Scheduled,3.6,Routine Inspection
+594,AC-028,2021-07-29,Scheduled,3.7,Routine Inspection
+595,AC-028,2024-03-26,Scheduled,3.8,Routine Inspection
+596,AC-028,2021-02-28,Scheduled,3.9,Routine Inspection
+597,AC-028,2023-01-18,Scheduled,2.6,Routine Inspection
+598,AC-028,2025-08-19,Scheduled,1.6,Routine Inspection
+599,AC-028,2021-06-20,Scheduled,2.0,Routine Inspection
+600,AC-028,2022-02-25,Scheduled,1.5,Routine Inspection
+601,AC-028,2024-01-22,Unscheduled,0.5,Engine
+602,AC-028,2025-01-17,Unscheduled,1.0,Avionics
+603,AC-028,2025-06-16,Unscheduled,0.5,Engine
+604,AC-028,2021-12-10,Unscheduled,0.6,Engine
+605,AC-028,2024-05-09,Unscheduled,6.1,Airframe
+606,AC-028,2023-03-21,Unscheduled,3.8,Airframe
+607,AC-028,2022-11-08,Unscheduled,2.0,Avionics
+608,AC-028,2021-11-18,Unscheduled,2.3,Airframe
+609,AC-028,2021-01-07,Unscheduled,4.1,Engine
+610,AC-028,2025-04-12,Unscheduled,0.9,Sensor/Payload
+611,AC-028,2023-09-01,Unscheduled,5.2,Avionics
+612,AC-028,2025-03-24,Unscheduled,2.7,Sensor/Payload
+613,AC-029,2025-06-09,Scheduled,3.9,Routine Inspection
+614,AC-029,2021-08-14,Scheduled,1.8,Routine Inspection
+615,AC-029,2024-01-06,Scheduled,3.8,Routine Inspection
+616,AC-029,2023-01-18,Scheduled,2.2,Routine Inspection
+617,AC-029,2024-12-08,Scheduled,1.5,Routine Inspection
+618,AC-029,2024-10-01,Scheduled,1.5,Routine Inspection
+619,AC-029,2022-09-15,Scheduled,3.2,Routine Inspection
+620,AC-029,2023-05-18,Scheduled,3.9,Routine Inspection
+621,AC-029,2024-02-16,Scheduled,3.4,Routine Inspection
+622,AC-029,2023-03-21,Scheduled,1.3,Routine Inspection
+623,AC-029,2024-06-14,Scheduled,2.7,Routine Inspection
+624,AC-029,2023-01-03,Scheduled,1.4,Routine Inspection
+625,AC-029,2022-08-16,Scheduled,2.8,Routine Inspection
+626,AC-029,2023-10-03,Scheduled,3.9,Routine Inspection
+627,AC-029,2023-10-04,Unscheduled,0.9,Engine
+628,AC-029,2024-09-24,Unscheduled,2.4,Avionics
+629,AC-029,2021-12-04,Unscheduled,1.2,Other
+630,AC-029,2021-04-27,Unscheduled,2.2,Engine
+631,AC-030,2024-08-23,Scheduled,3.2,Routine Inspection
+632,AC-030,2025-05-23,Scheduled,2.1,Routine Inspection
+633,AC-030,2024-09-05,Scheduled,2.8,Routine Inspection
+634,AC-030,2022-12-22,Scheduled,2.9,Routine Inspection
+635,AC-030,2023-10-02,Scheduled,3.1,Routine Inspection
+636,AC-030,2022-06-01,Scheduled,3.2,Routine Inspection
+637,AC-030,2024-01-12,Scheduled,3.0,Routine Inspection
+638,AC-030,2023-12-03,Scheduled,3.1,Routine Inspection
+639,AC-030,2024-07-16,Scheduled,3.7,Routine Inspection
+640,AC-030,2021-09-08,Scheduled,2.1,Routine Inspection
+641,AC-030,2023-10-28,Scheduled,3.2,Routine Inspection
+642,AC-030,2025-08-06,Scheduled,1.6,Routine Inspection
+643,AC-030,2022-06-18,Scheduled,3.8,Routine Inspection
+644,AC-030,2021-07-13,Scheduled,1.8,Routine Inspection
+645,AC-030,2025-10-11,Unscheduled,9.9,Avionics
+646,AC-030,2024-11-13,Unscheduled,0.6,Other
+647,AC-030,2021-09-22,Unscheduled,3.3,Sensor/Payload
+648,AC-030,2021-09-07,Unscheduled,1.4,Avionics
+649,AC-030,2024-06-13,Unscheduled,0.6,Engine
+650,AC-031,2021-12-28,Scheduled,3.7,Routine Inspection
+651,AC-031,2025-10-16,Scheduled,2.3,Routine Inspection
+652,AC-031,2025-10-08,Scheduled,1.7,Routine Inspection
+653,AC-031,2024-03-25,Scheduled,3.8,Routine Inspection
+654,AC-031,2025-10-28,Scheduled,3.6,Routine Inspection
+655,AC-031,2022-12-28,Scheduled,3.4,Routine Inspection
+656,AC-031,2022-08-25,Scheduled,1.4,Routine Inspection
+657,AC-031,2021-06-05,Scheduled,2.5,Routine Inspection
+658,AC-031,2024-08-18,Scheduled,3.3,Routine Inspection
+659,AC-031,2025-02-24,Scheduled,1.8,Routine Inspection
+660,AC-031,2022-02-23,Scheduled,2.1,Routine Inspection
+661,AC-031,2025-10-27,Scheduled,3.6,Routine Inspection
+662,AC-031,2024-09-18,Scheduled,1.3,Routine Inspection
+663,AC-031,2021-02-12,Unscheduled,9.0,Engine
+664,AC-031,2021-07-03,Unscheduled,0.5,Engine
+665,AC-031,2023-04-13,Unscheduled,3.6,Airframe
+666,AC-031,2023-10-23,Unscheduled,7.0,Engine
+667,AC-031,2025-05-29,Unscheduled,2.5,Engine
+668,AC-031,2022-04-25,Unscheduled,3.7,Avionics
+669,AC-032,2024-01-03,Scheduled,3.4,Routine Inspection
+670,AC-032,2024-10-04,Scheduled,3.5,Routine Inspection
+671,AC-032,2024-11-30,Scheduled,3.9,Routine Inspection
+672,AC-032,2023-12-09,Scheduled,3.9,Routine Inspection
+673,AC-032,2022-10-28,Scheduled,1.3,Routine Inspection
+674,AC-032,2023-12-13,Scheduled,1.2,Routine Inspection
+675,AC-032,2022-01-31,Scheduled,3.8,Routine Inspection
+676,AC-032,2022-05-20,Scheduled,3.8,Routine Inspection
+677,AC-032,2021-12-17,Scheduled,2.9,Routine Inspection
+678,AC-032,2022-09-20,Scheduled,1.9,Routine Inspection
+679,AC-032,2023-05-29,Scheduled,2.9,Routine Inspection
+680,AC-032,2024-01-29,Scheduled,2.3,Routine Inspection
+681,AC-032,2024-10-17,Unscheduled,0.8,Avionics
+682,AC-032,2024-10-23,Unscheduled,2.7,Other
+683,AC-032,2021-07-16,Unscheduled,8.9,Other
+684,AC-032,2022-05-23,Unscheduled,1.6,Airframe
+685,AC-032,2025-12-28,Unscheduled,2.2,Engine
+686,AC-032,2025-06-12,Unscheduled,0.8,Airframe
+687,AC-032,2024-03-29,Unscheduled,2.4,Other
+688,AC-032,2022-05-08,Unscheduled,4.9,Avionics
+689,AC-032,2022-08-30,Unscheduled,5.9,Airframe
+690,AC-032,2022-09-12,Unscheduled,6.3,Airframe
+691,AC-032,2021-07-07,Unscheduled,6.1,Engine
+692,AC-033,2022-12-13,Scheduled,2.2,Routine Inspection
+693,AC-033,2025-01-05,Scheduled,3.1,Routine Inspection
+694,AC-033,2022-04-20,Scheduled,1.4,Routine Inspection
+695,AC-033,2025-02-01,Scheduled,1.3,Routine Inspection
+696,AC-033,2022-12-30,Scheduled,3.2,Routine Inspection
+697,AC-033,2021-08-07,Scheduled,3.2,Routine Inspection
+698,AC-033,2025-04-04,Scheduled,3.8,Routine Inspection
+699,AC-033,2023-04-22,Scheduled,1.8,Routine Inspection
+700,AC-033,2025-01-03,Scheduled,3.9,Routine Inspection
+701,AC-033,2025-05-30,Scheduled,1.7,Routine Inspection
+702,AC-033,2021-03-24,Scheduled,2.0,Routine Inspection
+703,AC-033,2022-10-03,Scheduled,3.2,Routine Inspection
+704,AC-033,2024-10-06,Unscheduled,7.5,Airframe
+705,AC-033,2021-12-07,Unscheduled,1.0,Sensor/Payload
+706,AC-033,2025-07-28,Unscheduled,1.4,Engine
+707,AC-033,2021-12-24,Unscheduled,3.5,Engine
+708,AC-033,2021-11-22,Unscheduled,5.0,Sensor/Payload
+709,AC-033,2023-02-21,Unscheduled,2.3,Avionics
+710,AC-033,2023-10-10,Unscheduled,2.3,Sensor/Payload
+711,AC-033,2022-09-21,Unscheduled,12.9,Engine
+712,AC-033,2025-11-08,Unscheduled,1.2,Airframe
+713,AC-033,2024-04-10,Unscheduled,3.8,Airframe
+714,AC-033,2025-09-07,Unscheduled,14.0,Avionics
+715,AC-033,2024-03-03,Unscheduled,1.4,Avionics
+716,AC-034,2023-02-06,Scheduled,2.5,Routine Inspection
+717,AC-034,2023-10-25,Scheduled,1.8,Routine Inspection
+718,AC-034,2022-07-23,Scheduled,3.6,Routine Inspection
+719,AC-034,2023-07-02,Scheduled,3.0,Routine Inspection
+720,AC-034,2023-08-17,Scheduled,1.6,Routine Inspection
+721,AC-034,2024-03-12,Scheduled,4.0,Routine Inspection
+722,AC-034,2022-07-03,Scheduled,1.0,Routine Inspection
+723,AC-034,2023-12-24,Scheduled,2.6,Routine Inspection
+724,AC-034,2022-07-18,Scheduled,1.9,Routine Inspection
+725,AC-034,2024-02-26,Scheduled,3.3,Routine Inspection
+726,AC-034,2022-01-18,Scheduled,3.6,Routine Inspection
+727,AC-034,2025-09-15,Scheduled,1.0,Routine Inspection
+728,AC-034,2025-03-28,Unscheduled,3.7,Avionics
+729,AC-034,2025-05-01,Unscheduled,0.5,Sensor/Payload
+730,AC-034,2022-10-13,Unscheduled,8.0,Engine
+731,AC-034,2025-04-15,Unscheduled,0.5,Engine
+732,AC-034,2025-04-15,Unscheduled,1.9,Engine
+733,AC-034,2024-08-05,Unscheduled,2.2,Engine
+734,AC-034,2021-02-19,Unscheduled,3.1,Avionics
+735,AC-034,2021-01-23,Unscheduled,5.9,Engine
+736,AC-034,2025-05-26,Unscheduled,3.3,Other
+737,AC-034,2025-04-19,Unscheduled,0.5,Avionics
+738,AC-034,2024-09-22,Unscheduled,2.9,Engine
+739,AC-034,2021-05-17,Unscheduled,3.5,Avionics
+740,AC-034,2021-09-20,Unscheduled,2.2,Avionics
+741,AC-035,2024-09-12,Scheduled,1.0,Routine Inspection
+742,AC-035,2023-05-02,Scheduled,3.8,Routine Inspection
+743,AC-035,2022-03-27,Scheduled,2.5,Routine Inspection
+744,AC-035,2022-09-23,Scheduled,1.1,Routine Inspection
+745,AC-035,2023-02-25,Scheduled,3.4,Routine Inspection
+746,AC-035,2022-12-31,Scheduled,3.7,Routine Inspection
+747,AC-035,2025-09-23,Scheduled,2.2,Routine Inspection
+748,AC-035,2025-05-07,Scheduled,2.4,Routine Inspection
+749,AC-035,2022-10-05,Scheduled,3.2,Routine Inspection
+750,AC-035,2025-05-08,Scheduled,3.4,Routine Inspection
+751,AC-035,2023-08-03,Scheduled,2.0,Routine Inspection
+752,AC-035,2022-08-16,Scheduled,3.5,Routine Inspection
+753,AC-035,2023-03-22,Scheduled,2.7,Routine Inspection
+754,AC-035,2022-10-19,Scheduled,2.0,Routine Inspection
+755,AC-035,2023-01-01,Unscheduled,1.6,Engine
+756,AC-036,2022-08-03,Scheduled,1.4,Routine Inspection
+757,AC-036,2021-03-13,Scheduled,3.4,Routine Inspection
+758,AC-036,2024-01-01,Scheduled,4.0,Routine Inspection
+759,AC-036,2022-10-09,Scheduled,3.1,Routine Inspection
+760,AC-036,2021-07-25,Scheduled,1.8,Routine Inspection
+761,AC-036,2024-09-30,Scheduled,2.0,Routine Inspection
+762,AC-036,2025-07-19,Scheduled,2.0,Routine Inspection
+763,AC-036,2023-11-01,Scheduled,3.7,Routine Inspection
+764,AC-036,2025-09-30,Scheduled,2.8,Routine Inspection
+765,AC-036,2021-08-31,Scheduled,2.7,Routine Inspection
+766,AC-036,2025-03-20,Scheduled,3.6,Routine Inspection
+767,AC-036,2024-06-21,Scheduled,3.7,Routine Inspection
+768,AC-036,2023-05-20,Scheduled,3.2,Routine Inspection
+769,AC-036,2023-01-29,Unscheduled,0.7,Airframe
+770,AC-036,2021-12-21,Unscheduled,3.8,Engine
+771,AC-036,2025-12-15,Unscheduled,2.4,Engine
+772,AC-036,2024-07-10,Unscheduled,2.5,Airframe
+773,AC-036,2024-11-13,Unscheduled,3.0,Other
+774,AC-036,2023-06-19,Unscheduled,3.0,Avionics
+775,AC-036,2024-04-25,Unscheduled,3.8,Engine
+776,AC-036,2025-09-04,Unscheduled,0.5,Engine
+777,AC-036,2022-04-11,Unscheduled,1.7,Other
+778,AC-036,2024-02-27,Unscheduled,1.6,Sensor/Payload
+779,AC-037,2021-09-14,Scheduled,1.4,Routine Inspection
+780,AC-037,2022-07-02,Scheduled,2.2,Routine Inspection
+781,AC-037,2025-10-05,Scheduled,1.1,Routine Inspection
+782,AC-037,2024-02-11,Scheduled,2.5,Routine Inspection
+783,AC-037,2023-08-25,Scheduled,1.1,Routine Inspection
+784,AC-037,2022-11-03,Scheduled,2.1,Routine Inspection
+785,AC-037,2022-05-21,Scheduled,3.4,Routine Inspection
+786,AC-037,2022-12-25,Scheduled,2.9,Routine Inspection
+787,AC-037,2024-05-24,Scheduled,2.8,Routine Inspection
+788,AC-037,2025-12-06,Scheduled,2.8,Routine Inspection
+789,AC-037,2024-06-08,Scheduled,1.4,Routine Inspection
+790,AC-037,2024-11-15,Unscheduled,0.9,Avionics
+791,AC-037,2024-10-23,Unscheduled,1.1,Other
+792,AC-037,2022-06-27,Unscheduled,0.5,Engine
+793,AC-037,2023-01-28,Unscheduled,0.5,Engine
+794,AC-037,2022-01-16,Unscheduled,0.5,Avionics
+795,AC-037,2022-08-15,Unscheduled,12.3,Engine
+796,AC-037,2022-04-16,Unscheduled,10.6,Other
+797,AC-037,2022-08-09,Unscheduled,4.9,Sensor/Payload
+798,AC-037,2021-05-08,Unscheduled,3.2,Airframe
+799,AC-037,2025-02-24,Unscheduled,3.2,Sensor/Payload
+800,AC-037,2022-01-02,Unscheduled,0.5,Sensor/Payload
+801,AC-038,2025-11-02,Scheduled,1.3,Routine Inspection
+802,AC-038,2022-01-04,Scheduled,3.0,Routine Inspection
+803,AC-038,2022-08-22,Scheduled,3.2,Routine Inspection
+804,AC-038,2025-12-20,Scheduled,1.7,Routine Inspection
+805,AC-038,2023-12-05,Scheduled,3.8,Routine Inspection
+806,AC-038,2023-03-10,Scheduled,2.9,Routine Inspection
+807,AC-038,2022-10-19,Scheduled,1.6,Routine Inspection
+808,AC-038,2023-09-18,Scheduled,1.0,Routine Inspection
+809,AC-038,2022-11-24,Scheduled,2.2,Routine Inspection
+810,AC-038,2025-07-15,Scheduled,1.1,Routine Inspection
+811,AC-038,2023-01-13,Scheduled,1.9,Routine Inspection
+812,AC-038,2023-09-04,Scheduled,3.7,Routine Inspection
+813,AC-038,2022-06-18,Unscheduled,3.0,Engine
+814,AC-038,2024-10-06,Unscheduled,7.0,Avionics
+815,AC-038,2022-02-16,Unscheduled,2.3,Sensor/Payload
+816,AC-038,2022-07-19,Unscheduled,0.6,Airframe
+817,AC-038,2022-02-21,Unscheduled,6.0,Avionics
+818,AC-038,2022-03-10,Unscheduled,9.8,Engine
+819,AC-038,2021-10-22,Unscheduled,3.1,Avionics
+820,AC-038,2022-11-14,Unscheduled,2.6,Engine
+821,AC-038,2024-03-23,Unscheduled,3.7,Engine
+822,AC-038,2024-06-29,Unscheduled,0.5,Other
+823,AC-038,2025-08-11,Unscheduled,0.5,Airframe
+824,AC-039,2025-10-09,Scheduled,1.4,Routine Inspection
+825,AC-039,2021-02-09,Scheduled,1.0,Routine Inspection
+826,AC-039,2022-12-25,Scheduled,1.1,Routine Inspection
+827,AC-039,2023-04-08,Scheduled,3.6,Routine Inspection
+828,AC-039,2022-04-26,Scheduled,2.6,Routine Inspection
+829,AC-039,2022-11-24,Scheduled,2.1,Routine Inspection
+830,AC-039,2021-11-15,Scheduled,2.2,Routine Inspection
+831,AC-039,2023-02-26,Scheduled,2.8,Routine Inspection
+832,AC-039,2021-08-13,Scheduled,1.2,Routine Inspection
+833,AC-039,2021-05-09,Scheduled,3.4,Routine Inspection
+834,AC-039,2021-03-23,Scheduled,3.6,Routine Inspection
+835,AC-039,2023-02-02,Scheduled,3.7,Routine Inspection
+836,AC-039,2023-11-18,Scheduled,3.1,Routine Inspection
+837,AC-039,2023-01-29,Unscheduled,3.4,Avionics
+838,AC-039,2023-02-03,Unscheduled,5.9,Avionics
+839,AC-039,2024-07-18,Unscheduled,6.3,Airframe
+840,AC-039,2023-08-29,Unscheduled,0.5,Sensor/Payload
+841,AC-039,2025-11-24,Unscheduled,4.7,Avionics
+842,AC-039,2025-10-29,Unscheduled,0.5,Engine
+843,AC-040,2025-04-04,Scheduled,2.2,Routine Inspection
+844,AC-040,2024-03-16,Scheduled,3.9,Routine Inspection
+845,AC-040,2024-08-14,Scheduled,3.1,Routine Inspection
+846,AC-040,2025-06-17,Scheduled,2.8,Routine Inspection
+847,AC-040,2022-01-17,Scheduled,2.0,Routine Inspection
+848,AC-040,2021-01-05,Scheduled,3.0,Routine Inspection
+849,AC-040,2022-12-26,Scheduled,3.8,Routine Inspection
+850,AC-040,2023-04-28,Scheduled,2.6,Routine Inspection
+851,AC-040,2022-09-21,Scheduled,1.4,Routine Inspection
+852,AC-040,2024-02-16,Scheduled,2.4,Routine Inspection
+853,AC-040,2021-04-06,Scheduled,3.3,Routine Inspection
+854,AC-040,2022-03-02,Unscheduled,4.7,Sensor/Payload
+855,AC-040,2021-06-30,Unscheduled,1.3,Engine
+856,AC-040,2021-09-01,Unscheduled,3.3,Other
+857,AC-040,2025-12-24,Unscheduled,0.8,Airframe
+858,AC-040,2024-01-05,Unscheduled,1.2,Other
+859,AC-040,2022-03-03,Unscheduled,2.3,Other
+860,AC-040,2021-06-19,Unscheduled,2.1,Sensor/Payload
+861,AC-040,2025-04-21,Unscheduled,1.3,Avionics
+862,AC-040,2021-06-10,Unscheduled,2.3,Avionics
+863,AC-040,2025-07-14,Unscheduled,0.6,Airframe
+864,AC-040,2025-07-19,Unscheduled,0.5,Sensor/Payload
+865,AC-040,2021-05-07,Unscheduled,0.5,Sensor/Payload
+866,AC-040,2023-03-13,Unscheduled,0.5,Other
+867,AC-040,2024-12-31,Unscheduled,2.2,Avionics
+868,AC-040,2022-05-24,Unscheduled,0.6,Sensor/Payload
+869,AC-041,2023-09-14,Scheduled,3.8,Routine Inspection
+870,AC-041,2025-11-10,Scheduled,1.7,Routine Inspection
+871,AC-041,2023-04-12,Scheduled,3.1,Routine Inspection
+872,AC-041,2023-07-29,Scheduled,2.3,Routine Inspection
+873,AC-041,2025-03-24,Scheduled,1.1,Routine Inspection
+874,AC-041,2021-12-10,Scheduled,2.7,Routine Inspection
+875,AC-041,2021-07-06,Scheduled,1.9,Routine Inspection
+876,AC-041,2022-07-02,Scheduled,3.0,Routine Inspection
+877,AC-041,2023-01-25,Scheduled,2.9,Routine Inspection
+878,AC-041,2024-08-28,Scheduled,1.2,Routine Inspection
+879,AC-041,2025-10-06,Scheduled,1.6,Routine Inspection
+880,AC-041,2023-04-03,Scheduled,3.2,Routine Inspection
+881,AC-041,2024-04-01,Scheduled,3.5,Routine Inspection
+882,AC-041,2023-11-29,Unscheduled,3.3,Airframe
+883,AC-041,2025-04-05,Unscheduled,3.0,Avionics
+884,AC-041,2021-11-18,Unscheduled,0.5,Sensor/Payload
+885,AC-041,2022-06-02,Unscheduled,0.5,Avionics
+886,AC-041,2021-11-09,Unscheduled,0.5,Airframe
+887,AC-041,2021-07-25,Unscheduled,1.7,Avionics
+888,AC-042,2023-02-28,Scheduled,3.8,Routine Inspection
+889,AC-042,2025-07-01,Scheduled,3.8,Routine Inspection
+890,AC-042,2023-07-15,Scheduled,2.5,Routine Inspection
+891,AC-042,2025-03-27,Scheduled,1.8,Routine Inspection
+892,AC-042,2025-11-16,Scheduled,2.5,Routine Inspection
+893,AC-042,2021-09-30,Scheduled,2.8,Routine Inspection
+894,AC-042,2025-01-31,Scheduled,2.5,Routine Inspection
+895,AC-042,2024-08-12,Scheduled,1.0,Routine Inspection
+896,AC-042,2021-05-29,Scheduled,1.0,Routine Inspection
+897,AC-042,2022-07-21,Scheduled,2.9,Routine Inspection
+898,AC-042,2022-04-23,Scheduled,2.4,Routine Inspection
+899,AC-042,2023-05-17,Scheduled,2.4,Routine Inspection
+900,AC-042,2021-11-08,Scheduled,1.2,Routine Inspection
+901,AC-042,2024-11-23,Unscheduled,0.5,Avionics
+902,AC-042,2021-09-17,Unscheduled,0.6,Sensor/Payload
+903,AC-042,2023-11-14,Unscheduled,1.7,Avionics
+904,AC-042,2023-12-29,Unscheduled,1.2,Avionics
+905,AC-042,2025-05-26,Unscheduled,2.5,Sensor/Payload
+906,AC-043,2021-03-18,Scheduled,1.6,Routine Inspection
+907,AC-043,2023-06-20,Scheduled,3.9,Routine Inspection
+908,AC-043,2024-11-30,Scheduled,3.5,Routine Inspection
+909,AC-043,2023-01-27,Scheduled,3.4,Routine Inspection
+910,AC-043,2025-03-10,Scheduled,2.5,Routine Inspection
+911,AC-043,2023-12-25,Scheduled,3.2,Routine Inspection
+912,AC-043,2025-05-20,Scheduled,1.9,Routine Inspection
+913,AC-043,2024-03-05,Scheduled,1.7,Routine Inspection
+914,AC-043,2022-12-24,Scheduled,1.3,Routine Inspection
+915,AC-043,2025-05-17,Scheduled,2.9,Routine Inspection
+916,AC-043,2022-05-02,Scheduled,1.5,Routine Inspection
+917,AC-043,2021-02-22,Scheduled,1.0,Routine Inspection
+918,AC-043,2023-06-09,Scheduled,2.2,Routine Inspection
+919,AC-043,2025-07-13,Unscheduled,2.4,Airframe
+920,AC-043,2025-12-01,Unscheduled,6.7,Sensor/Payload
+921,AC-043,2022-06-04,Unscheduled,1.2,Avionics
+922,AC-043,2023-02-26,Unscheduled,2.3,Engine
+923,AC-043,2024-11-08,Unscheduled,5.9,Sensor/Payload
+924,AC-043,2023-10-20,Unscheduled,4.4,Avionics
+925,AC-043,2021-07-16,Unscheduled,1.7,Airframe
+926,AC-044,2024-02-28,Scheduled,3.2,Routine Inspection
+927,AC-044,2024-10-16,Scheduled,4.0,Routine Inspection
+928,AC-044,2025-03-06,Scheduled,3.3,Routine Inspection
+929,AC-044,2022-03-30,Scheduled,1.6,Routine Inspection
+930,AC-044,2022-01-25,Scheduled,3.4,Routine Inspection
+931,AC-044,2022-03-21,Scheduled,3.9,Routine Inspection
+932,AC-044,2025-02-09,Scheduled,2.1,Routine Inspection
+933,AC-044,2024-11-04,Scheduled,1.5,Routine Inspection
+934,AC-044,2021-03-23,Scheduled,2.9,Routine Inspection
+935,AC-044,2022-06-30,Scheduled,1.5,Routine Inspection
+936,AC-044,2025-11-17,Scheduled,3.7,Routine Inspection
+937,AC-044,2022-01-29,Scheduled,1.3,Routine Inspection
+938,AC-044,2023-02-04,Scheduled,1.1,Routine Inspection
+939,AC-044,2021-12-04,Unscheduled,0.5,Engine
+940,AC-044,2021-06-21,Unscheduled,4.2,Sensor/Payload
+941,AC-044,2021-07-14,Unscheduled,0.5,Avionics
+942,AC-044,2023-01-15,Unscheduled,8.4,Avionics
+943,AC-044,2022-02-05,Unscheduled,0.6,Engine
+944,AC-044,2022-10-15,Unscheduled,0.5,Airframe
+945,AC-044,2022-03-06,Unscheduled,0.6,Engine
+946,AC-044,2021-08-16,Unscheduled,0.5,Avionics
+947,AC-044,2021-06-12,Unscheduled,5.0,Sensor/Payload
+948,AC-044,2022-03-17,Unscheduled,1.2,Other
+949,AC-044,2023-02-20,Unscheduled,0.5,Other
+950,AC-045,2021-11-28,Scheduled,2.4,Routine Inspection
+951,AC-045,2023-11-25,Scheduled,2.3,Routine Inspection
+952,AC-045,2024-10-15,Scheduled,2.2,Routine Inspection
+953,AC-045,2024-03-13,Scheduled,2.7,Routine Inspection
+954,AC-045,2025-03-10,Scheduled,2.3,Routine Inspection
+955,AC-045,2022-01-17,Scheduled,2.2,Routine Inspection
+956,AC-045,2025-11-10,Scheduled,2.2,Routine Inspection
+957,AC-045,2021-05-11,Scheduled,3.2,Routine Inspection
+958,AC-045,2022-08-14,Scheduled,2.1,Routine Inspection
+959,AC-045,2021-11-12,Scheduled,1.6,Routine Inspection
+960,AC-045,2021-08-23,Scheduled,2.5,Routine Inspection
+961,AC-045,2024-09-22,Scheduled,1.9,Routine Inspection
+962,AC-045,2023-12-01,Unscheduled,6.3,Engine
+963,AC-045,2023-01-07,Unscheduled,0.5,Other
+964,AC-045,2021-12-01,Unscheduled,1.0,Airframe
+965,AC-045,2022-07-24,Unscheduled,6.2,Airframe
+966,AC-045,2023-09-25,Unscheduled,0.5,Engine
+967,AC-046,2025-08-20,Scheduled,2.8,Routine Inspection
+968,AC-046,2022-09-20,Scheduled,3.2,Routine Inspection
+969,AC-046,2025-06-25,Scheduled,2.2,Routine Inspection
+970,AC-046,2023-04-18,Scheduled,3.2,Routine Inspection
+971,AC-046,2022-01-13,Scheduled,1.3,Routine Inspection
+972,AC-046,2025-06-10,Scheduled,2.2,Routine Inspection
+973,AC-046,2024-10-07,Scheduled,1.4,Routine Inspection
+974,AC-046,2022-02-06,Scheduled,2.6,Routine Inspection
+975,AC-046,2023-05-16,Scheduled,3.6,Routine Inspection
+976,AC-046,2021-05-06,Scheduled,3.5,Routine Inspection
+977,AC-046,2024-06-11,Scheduled,1.4,Routine Inspection
+978,AC-046,2025-05-20,Scheduled,3.1,Routine Inspection
+979,AC-046,2025-05-23,Scheduled,3.4,Routine Inspection
+980,AC-046,2025-06-14,Unscheduled,1.6,Sensor/Payload
+981,AC-046,2024-09-20,Unscheduled,2.4,Sensor/Payload
+982,AC-046,2024-10-22,Unscheduled,0.9,Engine
+983,AC-046,2022-01-20,Unscheduled,2.0,Airframe
+984,AC-046,2023-04-22,Unscheduled,6.8,Airframe
+985,AC-046,2025-01-25,Unscheduled,10.0,Other
+986,AC-046,2023-01-06,Unscheduled,3.8,Engine
+987,AC-046,2022-03-13,Unscheduled,9.1,Avionics
+988,AC-046,2023-02-19,Unscheduled,4.1,Avionics
+989,AC-047,2023-10-31,Scheduled,2.9,Routine Inspection
+990,AC-047,2023-02-16,Scheduled,3.2,Routine Inspection
+991,AC-047,2023-10-22,Scheduled,2.0,Routine Inspection
+992,AC-047,2022-08-15,Scheduled,2.2,Routine Inspection
+993,AC-047,2025-08-03,Scheduled,1.1,Routine Inspection
+994,AC-047,2023-07-06,Scheduled,3.1,Routine Inspection
+995,AC-047,2024-01-02,Scheduled,1.4,Routine Inspection
+996,AC-047,2022-06-18,Scheduled,3.7,Routine Inspection
+997,AC-047,2024-04-08,Scheduled,2.6,Routine Inspection
+998,AC-047,2025-05-17,Scheduled,2.9,Routine Inspection
+999,AC-047,2021-09-30,Scheduled,2.0,Routine Inspection
+1000,AC-047,2025-11-16,Scheduled,1.6,Routine Inspection
+1001,AC-047,2021-07-04,Scheduled,3.8,Routine Inspection
+1002,AC-047,2022-11-30,Unscheduled,7.7,Sensor/Payload
+1003,AC-047,2025-05-29,Unscheduled,3.0,Other
+1004,AC-047,2024-12-03,Unscheduled,2.6,Engine
+1005,AC-047,2022-01-21,Unscheduled,8.1,Sensor/Payload
+1006,AC-047,2021-06-19,Unscheduled,0.7,Sensor/Payload
+1007,AC-048,2024-08-08,Scheduled,3.8,Routine Inspection
+1008,AC-048,2021-06-15,Scheduled,4.0,Routine Inspection
+1009,AC-048,2021-10-18,Scheduled,1.2,Routine Inspection
+1010,AC-048,2024-02-10,Scheduled,2.8,Routine Inspection
+1011,AC-048,2023-02-10,Scheduled,2.9,Routine Inspection
+1012,AC-048,2024-03-19,Scheduled,3.5,Routine Inspection
+1013,AC-048,2024-10-12,Scheduled,3.9,Routine Inspection
+1014,AC-048,2023-11-30,Scheduled,4.0,Routine Inspection
+1015,AC-048,2025-02-05,Scheduled,3.0,Routine Inspection
+1016,AC-048,2021-05-17,Scheduled,1.6,Routine Inspection
+1017,AC-048,2022-01-18,Scheduled,2.6,Routine Inspection
+1018,AC-048,2023-10-31,Unscheduled,1.8,Sensor/Payload
+1019,AC-048,2023-11-18,Unscheduled,4.9,Avionics
+1020,AC-048,2025-08-02,Unscheduled,0.9,Engine
+1021,AC-048,2025-02-21,Unscheduled,1.9,Engine
+1022,AC-048,2025-03-30,Unscheduled,0.5,Airframe
+1023,AC-048,2025-07-23,Unscheduled,1.3,Airframe
+1024,AC-048,2021-05-02,Unscheduled,0.6,Avionics
+1025,AC-048,2025-08-06,Unscheduled,0.5,Engine
+1026,AC-048,2025-05-31,Unscheduled,4.5,Engine
+1027,AC-048,2022-07-28,Unscheduled,0.5,Avionics
+1028,AC-048,2025-06-15,Unscheduled,3.0,Engine
+1029,AC-048,2022-03-31,Unscheduled,1.4,Avionics
+1030,AC-048,2025-10-08,Unscheduled,0.5,Airframe
+1031,AC-049,2024-12-03,Scheduled,2.0,Routine Inspection
+1032,AC-049,2023-10-26,Scheduled,3.5,Routine Inspection
+1033,AC-049,2022-10-09,Scheduled,2.0,Routine Inspection
+1034,AC-049,2021-03-18,Scheduled,1.7,Routine Inspection
+1035,AC-049,2025-08-13,Scheduled,1.3,Routine Inspection
+1036,AC-049,2025-09-16,Scheduled,3.6,Routine Inspection
+1037,AC-049,2023-10-25,Scheduled,3.1,Routine Inspection
+1038,AC-049,2021-09-20,Scheduled,2.6,Routine Inspection
+1039,AC-049,2023-05-10,Scheduled,2.0,Routine Inspection
+1040,AC-049,2025-06-10,Scheduled,1.8,Routine Inspection
+1041,AC-049,2021-07-30,Scheduled,3.4,Routine Inspection
+1042,AC-049,2024-12-15,Scheduled,1.2,Routine Inspection
+1043,AC-049,2021-04-30,Scheduled,2.0,Routine Inspection
+1044,AC-049,2024-08-10,Unscheduled,0.7,Avionics
+1045,AC-049,2021-07-21,Unscheduled,1.1,Engine
+1046,AC-049,2023-08-14,Unscheduled,7.2,Avionics
+1047,AC-049,2022-12-31,Unscheduled,0.5,Engine
+1048,AC-049,2022-07-07,Unscheduled,4.0,Airframe
+1049,AC-049,2024-03-01,Unscheduled,1.6,Avionics
+1050,AC-049,2023-08-03,Unscheduled,0.5,Avionics
+1051,AC-049,2025-12-03,Unscheduled,3.2,Avionics
+1052,AC-049,2023-04-30,Unscheduled,0.5,Avionics
+1053,AC-049,2023-08-22,Unscheduled,3.2,Sensor/Payload
+1054,AC-050,2022-10-30,Scheduled,3.9,Routine Inspection
+1055,AC-050,2024-11-03,Scheduled,3.1,Routine Inspection
+1056,AC-050,2024-06-04,Scheduled,2.9,Routine Inspection
+1057,AC-050,2025-09-10,Scheduled,3.4,Routine Inspection
+1058,AC-050,2023-06-15,Scheduled,1.4,Routine Inspection
+1059,AC-050,2025-09-17,Scheduled,2.5,Routine Inspection
+1060,AC-050,2023-06-04,Scheduled,3.4,Routine Inspection
+1061,AC-050,2025-02-20,Scheduled,3.2,Routine Inspection
+1062,AC-050,2024-05-08,Scheduled,1.3,Routine Inspection
+1063,AC-050,2021-12-12,Scheduled,3.5,Routine Inspection
+1064,AC-050,2023-07-22,Scheduled,2.2,Routine Inspection
+1065,AC-050,2024-02-24,Scheduled,3.0,Routine Inspection
+1066,AC-050,2021-01-27,Unscheduled,17.2,Avionics
+1067,AC-050,2021-09-18,Unscheduled,3.0,Engine
+1068,AC-050,2022-02-28,Unscheduled,1.4,Avionics
+1069,AC-050,2025-12-04,Unscheduled,1.1,Engine
+1070,AC-050,2024-11-27,Unscheduled,3.9,Airframe
+1071,AC-050,2024-11-10,Unscheduled,0.5,Airframe
+1072,AC-050,2022-04-02,Unscheduled,1.1,Sensor/Payload
+1073,AC-050,2021-05-08,Unscheduled,1.1,Other
+1074,AC-050,2024-06-11,Unscheduled,1.9,Avionics
+1075,AC-050,2023-01-23,Unscheduled,3.2,Airframe
+1076,AC-050,2025-05-22,Unscheduled,3.3,Engine
+1077,AC-050,2022-12-21,Unscheduled,0.5,Other
+1078,AC-050,2023-07-05,Unscheduled,2.9,Engine
+1079,AC-050,2023-12-02,Unscheduled,1.7,Avionics
