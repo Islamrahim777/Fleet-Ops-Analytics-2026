@@ -1,6 +1,6 @@
 # Fleet Operations Analytics
 
-**A data analytics project applying flight-hour, readiness, and maintenance analysis to a simulated 50-aircraft fleet — the same category of analysis I performed operationally over 5 years as an Operations Officer and Head of Flight Control & Standardization Department in UAV operations.**
+**A data analytics project applying flight-hour, readiness, and maintenance analysis to a simulated 50-aircraft fleet — the same category of analysis I performed operationally over 5.5 years as an Operations Officer and Head of Flight Control & Standardization Department in UAV operations.**
 
 ## Why this project
 
